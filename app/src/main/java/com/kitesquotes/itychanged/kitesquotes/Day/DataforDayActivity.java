@@ -30,7 +30,7 @@ public class DataforDayActivity extends AppCompatActivity implements ListPhotoAd
     ListPhotoAdapter lvAdapter;
     private ArrayList<OPhoto> arrayList=null;
     InterstitialAd mInterstitialAd;
-    private static final long GAME_LENGTH_MILLISECONDS = 3000;
+    private static final long GAME_LENGTH_MILLISECONDS = 5000;
 
     private CountDownTimer mCountDownTimer;
     private boolean mGameIsInProgress;
@@ -94,28 +94,16 @@ public class DataforDayActivity extends AppCompatActivity implements ListPhotoAd
 
         arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
 
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
-        arrayList.add(new OPhoto("http://67.media.tumblr.com/de0cf51214b348e63c94fa35cd233855/tumblr_o02lynKDZZ1thiwtjo1_1280.png"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/29a2a8aaefb392dc7de63df3d5f88f3f/tumblr_nzqy0wPNDG1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/3b2595233df739e51661db820acca821/tumblr_nznsv2DxIK1sxnbwko1_1280.png"));
 
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/3b2595233df739e51661db820acca821/tumblr_nznsv2DxIK1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/c5c51a640a2d8271c9af65868417cd4a/tumblr_nzfy1lnWGO1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/523d9cc99b4b018fcd4998529a54c3e6/tumblr_nze0quGlP91thiwtjo1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/12f9d52c34345a3f4a6e724ced503503/tumblr_nzcqx7D2Ah1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/f921805efc36ce7fc621f763f9197ebc/tumblr_nymrj75YAI1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/e608d46f4ca90ec986ddb821137ea50f/tumblr_nj8t76ksYE1thiwtjo1_r1_1280.png"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/ffe2fc3a523ea2fbda5a81b1538005ec/tumblr_nyja0rutgg1sxnbwko1_1280.png"));
 
 
 
