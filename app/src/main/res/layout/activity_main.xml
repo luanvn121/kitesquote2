@@ -33,7 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/buttonSwipeLeft"
-        android:padding="@dimen/padding_swipestack"
+        android:padding="@dimen/_30sdp"
         app:stack_rotation="10"
         app:stack_size="3"/>
 

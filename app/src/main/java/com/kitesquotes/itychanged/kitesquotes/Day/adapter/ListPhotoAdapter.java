@@ -67,8 +67,7 @@ public class ListPhotoAdapter extends RecyclerView.Adapter {
             itemView.setOnClickListener(this);
             RecyclerView.LayoutParams layoutParams = (RecyclerView.LayoutParams) itemView.getLayoutParams();
             imageView= (ImageView) itemView.findViewById(R.id.btnPokemon);
-           /* layoutParams.height = itemHeight;
-            itemView.setLayoutParams(layoutParams);*/
+
 
         }
 

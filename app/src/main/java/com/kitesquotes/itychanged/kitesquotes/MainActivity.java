@@ -21,6 +21,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.kitesquotes.itychanged.kitesquotes.Day.DataforDayActivity;
+import com.kitesquotes.itychanged.kitesquotes.Day.DetailActivity;
 import com.kitesquotes.itychanged.kitesquotes.Day.model.OPhoto;
 
 import java.util.ArrayList;
@@ -60,8 +61,7 @@ public class MainActivity extends AppCompatActivity implements SwipeStack.SwipeS
         fab01.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent=new Intent(MainActivity.this,DataforDayActivity.class);
-                startActivity(intent);
+
             }
         });
         fab02= (com.github.clans.fab.FloatingActionButton) findViewById(R.id.fab2);
@@ -75,7 +75,8 @@ public class MainActivity extends AppCompatActivity implements SwipeStack.SwipeS
         fab03.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent intent=new Intent(MainActivity.this,DataforDayActivity.class);
+                startActivity(intent);
             }
         });
 
@@ -381,13 +382,23 @@ public class MainActivity extends AppCompatActivity implements SwipeStack.SwipeS
                 convertView = getLayoutInflater().inflate(R.layout.card, parent, false);
             }
             ImageView imageView= (ImageView) convertView.findViewById(R.id.item);
-            TextView textViewCard = (TextView) convertView.findViewById(R.id.txt);
+            final TextView textViewCard = (TextView) convertView.findViewById(R.id.txt);
             textViewCard.setText(mData.get(position).getName());
             Glide.with(MainActivity.this).load(mData.get(position).getImage())
                     .thumbnail(0.5f)
                     .crossFade()
                     .diskCacheStrategy(DiskCacheStrategy.ALL)
                     .into(imageView);
+            imageView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Intent intent=new Intent(MainActivity.this, DetailActivity.class);
+                    intent.putExtra("txt",textViewCard.getText().toString());
+                    intent.putExtra("url",mData.get(position).getImage());
+                    startActivity(intent);
+
+                }
+            });
 
             return convertView;
         }
