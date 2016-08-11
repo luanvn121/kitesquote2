@@ -996,6 +996,262 @@ public class DataforDayActivity extends AppCompatActivity implements ListPhotoAd
         arrayList.add(new OPhoto("http://67.media.tumblr.com/79f9700e607780e6133fcd3db1ad2bf5/tumblr_nasptzu4KH1thiwtjo1_1280.jpg","Chờ đợi không đáng sợ. Cái đáng sợ nhất chính là không biết phải chờ đến bao giờ."));
         arrayList.add(new OPhoto("http://66.media.tumblr.com/659d301c4d3d2762bea34aac96d526be/tumblr_napq6b5sQ31sxnbwko1_1280.jpg","“Người ta nói nỗi buồn, niềm đau chính là giai điệu với người nghệ sĩ nhưng ta hi vọng nàng sẽ lấy tình yêu và sự chân thành làm giai điệu của chính mình.”"));
         arrayList.add(new OPhoto("http://67.media.tumblr.com/45a9c3433084bb69ada2a66324ec16c6/tumblr_nar6zpgbaE1sxnbwko1_1280.jpg","“This is how I’m gonna remember you. Pink cheeks, two left feet, heartbeat\" "));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/1268df189f44919ee5503389653276f3/tumblr_nappckB25H1sxnbwko1_1280.jpg","“Kết cục của sự phản bội chính là sự phản bội lớn hơn thế nữa!”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/52af829b81f6ba4c31f202aadebe8046/tumblr_napp9y0t6F1sxnbwko1_1280.jpg","“Đừng bao giờ yêu một người đối xử với bạn như những người bình thường khác.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/7c05fb4adf1e6ca34638f11f37de3c52/tumblr_napp72lwc41sxnbwko1_1280.jpg","“Tình yêu là một cuộc rượt bắt nhưng trong nhiều trường hợp ta cố rượt theo người này nhưng rốt cuộc lại bắt được người khác.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/7d2f4f059cc9663aff075db7cdd92f53/tumblr_napovq47cv1thiwtjo1_1280.jpg","Có những người, từng giờ bạn đều mong mình nhanh chóng quên họ đi, nhưng lại cầu mong họ đừng bao giờ quên bạn"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/89a6235d07ecf1210af29c79fd5b7726/tumblr_napozyi0rV1sxnbwko1_1280.jpg","“Tôi rất muốn mua một chiếc máy ảnh, loại bình thường thôi, dẫu sao cũng chỉ để ghi dấu lại những cảm xúc thoáng qua trong cuộc đời này. Nhưng rồi điều đó không bao giờ đến, bởi tôi biết điều đẹp nhất sẽ đọng lại trong chúng ta, dù có được ghi dấu lại thành hình ảnh hay không. Chiếc máy ảnh là không cần thiết để lưu nhớ những điều đẹp không tên. Tôi chỉ còn muốn vui mỗi ngày. Mỗi ngày một niềm vui nho nhỏ, đủ để mỉm cười, đủ để thấy ngày hôm nay sống đáng. Và để thấy dẫu mỗi người bạn sẽ qua đi, thì vẫn còn một dư âm ở lại, vang vọng như những tiếng gọi của thời gian, khắc họa chính mình.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/d9e0e9b2ac2e13ec867b3697f0b228db/tumblr_nanwbfQpd31sxnbwko1_1280.png","“Everyday I try to look my past\n" +
+                "Even though inside I’m such a mess\n" +
+                "Why do I always feel invisible?”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/35d0a84f182aa989039e469538a61aee/tumblr_nanwmgJOTA1sxnbwko1_1280.png","“If we go to war, we could lose all we’ve built. Home. Family. Future.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/5ca4c30187309af2d35c5d44f04bf379/tumblr_nanwrtjxbb1sxnbwko1_1280.png","“Đừng khóc một cách đáng xấu hổ như thế, khóc cũng chẳng được gì. Thế giới này chẳng đối xử tốt với ai cả.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/7ecb31471e1f110c69b98382987b3d1c/tumblr_nap08xkEYF1thiwtjo1_1280.jpg","Nếu không thể ở bên, chi bằng tạm biệt vĩnh viễn."));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/23888845fd01434d459adda4cc8f26e0/tumblr_naotlqHUxq1thiwtjo1_1280.jpg","“Stress (xì trét/danh từ)\n" +
+                "Trạng thái rối loạn tinh thần mà bạn thậm chí có thể tát vỡ mồm người mà mình yêu thương nhất khi nó cứ lảm nhảm mấy chuyện nhảm nhí bên tai bạn.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/540988a5040f4200aa168a9446ebf1a5/tumblr_nanz2fYPF81thiwtjo1_1280.jpg","“Tất cả chúng ta đều thay đổi. Chỉ là nhanh đến chóng mặt hoặc chậm đến mức không nhận ra. \n" +
+                "Ai rồi cũng khác.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/08d443256e7e034171d09ebd917f71d1/tumblr_nanwokHIiq1sxnbwko1_1280.png","“Chỉ cần ngươi ở trước mặt ta, chỉ cần trong mắt ta có ngươi, thế là đủ rồi. Đủ để ta vứt bỏ mọi thứ vì ngươi, đủ để ta cùng ngươi đi đến sông cạn đá mòn.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/87dd1385ebef85b183ead30e45f9944c/tumblr_nalzplY4kI1sxnbwko1_1280.jpg","“Đôi khi ta tránh làm người mình yêu tổn thương theo cách khiến họ tổn thương nhất. Đó là im lặng.“"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/1c40dc2f33eac97e46cf935d717e2ba0/tumblr_nan9uz8usf1sxnbwko1_1280.png","“Bố ở đây cả đời cũng không sao. Chỉ cần con đến thăm bố là được mà. Con sẽ không giận đâu, bố đừng đi đến nơi tốt đẹp đó.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/71c3c567c2bb7b7a9d0f58f1ec18dbe7/tumblr_nam0xr2dw01sxnbwko1_1280.png","“Nhưng nếu cậu thật lòng thích một người, cứ giữ mãi trong lòng như thế, có chịu được không?”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/b7e1e1dceffdf2cac9b5baad1b59fa1c/tumblr_nam10o25H51sxnbwko1_1280.png","“Hôm nay đẹp trời ,không bằng em gả cho anh đi.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/c48de962129a37c54f2bbf73b4c54b11/tumblr_nama75aKi11thiwtjo1_1280.jpg"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/9d74ababdbbcd38306b6bb1170b43c7f/tumblr_nam15uzGjT1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/56425e9507bb5f63f6b73283265bf6e7/tumblr_nam05c0PNG1thiwtjo1_1280.png","Một thời vùng vẫy, quằn quại, mình mẩy xác xơ, tim chắp vá, đầu nguội lại, lòng trơ trọi. Một thời từ đau khổ này qua đau khổ kia. Rồi một ngày, bạn thấy mình lớn lên. Và bạn biết ơn tuổi trẻ với những đau khổ ấy biết dường nào.\n" +
+                "\n" +
+                "Có rất nhiều loại đau khổ, mà để trưởng thành, bạn nhất quyết phải trải qua\n" +
+                "\n" +
+                "1. Loại đau khổ thấy đấng sinh thành rơi nước mắt\n" +
+                "\n" +
+                "Bất hiếu là bất nhân. Trên đời này, thứ tình yêu vĩnh viễn, trinh nguyên, cao thượng và vô điều kiện chỉ tồn tại giữa cha mẹ và con cái. Bạn nhất định phải một lần nhói lòng vì làm cha mẹ buồn, xấu hổ khi làm cha mẹ thất vọng. Nhất định phải nếm được vị đắng của giọt mồ hôi rơi xuống từ bờ vai gầy của cha mẹ. Thậm chí, phải dằn vặt bản thân vì chưa làm được gì cho cha mẹ. Nếu lớn lên mà hờ hững với những người vì bạn mà vất vả, vì bạn mà rơi nước mắt, bạn sẽ đánh mất trái tim của mình.\n" +
+                "\n" +
+                "2. Loại đau khổ bị người yêu hơn cả bản thân phản bội\n" +
+                "\n" +
+                "Mối tình đầu, mối tình thứ hai, mối tình thứ ba, đơn phương, tay ba, hay vòng vo không dứt, dù là mối tình thế nào, một lần thất tình là cần thiết. Trái tim nếu không biết đau, sao có thể quý trọng hạnh phúc. Cõi lòng nếu không cô đơn, sao có thể biết tin vào sự bền vững, sao đôi chân có thể dừng lại, sao có thể biết đến thế nào là giá trị của sự tin tưởng?\n" +
+                "\n" +
+                "3. Loại đau khổ lòng tự tôn bị chà đạp, cái tôi bị xé nát\n" +
+                "\n" +
+                "Tuổi trẻ như gió, chỉ thích bay cao, cái tôi như hổ, không chịu khuất phục thứ gì. Chính vì cái ngạo mạn vô tận của đứa trẻ đang lớn, nên mới cần một lần té thật đau. Trong chuyện tình cảm, học tập, công việc, bạn bè, chúng ta đều vì một chữ ‘sĩ’ mà ít nhiều làm sai, ít nhiều làm đau người khác, làm đau bản thân. Té một thật đau, khóc một lần khô cạn cả lòng, thấy cái tôi của mình bị tổn thương nghiêm trọng, rồi nhận ra mình bé nhỏ lắm, thế giới rộng lớn lắm, nhất định phải biết mình biết ta. Tới một ngày nào đó, có thể cúi đầu nói ra câu em còn kém lắm, xin hãy giúp đỡ”, có thể cảm nhận được sự khiêm tốn hình thành, khi đó, ắt hẳn đã trưởng thành.\n" +
+                "\n" +
+                "4. Loại đau khổ thấy mình vô dụng, thất bại chồng chất\n" +
+                "\n" +
+                "Nhìn thấy người khác cứ vượt lên trên, bỏ xa mình một khoảng cách dài, bạn cố chạy theo nhưng chỉ thấy thấy bại, thấy vấp ngã. Bạn hối hận vì ngày đó không cố gắng học tập, hối hận vì ngày đó để cơ hội trôi đi, thất bại vì đã chọn điều này chứ không chọn điều kia. Bạn cảm thấy bản thân chẳng có gì để tự hào.Nhưng một ngày kia bạn cảm thấy mình thất bại quá nhiều, mà vẫn còn chưa bỏ cuộc, thì bạn mạnh mẽ hơn bạn tưởng đấy. Cuộc đời rải đầy hoa hồng thì chẳng có thử thách nào rèn dũa và trao cho bạn cơ hội thể hiện nghị lực cả. Nhìn thấy cuộc đời không dễ dàng mới một lòng phấn đấu. Bạn biết đấy, thành công không dành cho người sớm bỏ cuộc.\n" +
+                "\n" +
+                "5. Loại đau khổ vì tự ti, quá xấu, quá nghèo, quá ngu\n" +
+                "\n" +
+                "Ghen tị có thể bào mòn trái tim người ta rất ghê gớm. Bạn sinh ra không được xinh đẹp, không gia thế, không khôn ngoan? Chỉ cần so sánh, ắt sẽ sinh ra đau khổ. Nhưng cuộc đời không phải một cuộc đua, không phải cứ ai bắn phát súng bên tai thì mình phải chạy, ai cũng có cái đích của bản thân, hạnh phúc của người khác chắc gì khiến tim bản thân mình vui? Chẳng ai hoàn hảo, mọi người đều tự sâu bên trong có điều gì đó khiến họ tự ti, thậm chí, càng lớn lên người ta càng có quá nhiều điều để so sánh, càng có nhiều điều để tự ti. Một lần đau khổ một tuổi trẻ vì nghèo, vì xấu, vì ngu rồi, thì hãy hạnh phúc vì những gì mình đang có nhé.\n" +
+                "\n" +
+                "6. Loại đau khổ không hiểu vì sao mình phải bị sinh ra\n" +
+                "\n" +
+                "Có tới hàng ngàn người trải qua cảm giác muốn cứa một đường dài vào cổ tay, muốn đẩy cửa nhảy xuống từ tầng lầu cao nhất. Loại đau khổ tột bật thống khổ nhất là cảm thấy không còn thiết sống nữa. Loại đau khổ hình thành khi mọi thứ đã tận, chỉ còn bế tắc. Nhất là tuổi trẻ khám phá ra cuộc đời chỉ là một mớ hỗn độn, rất nhiều người thay vì đối mặt với nó thì lẩn trốn. Nếu bạn đã gặp cảm giác bi thương này thì coi như sẽ chẳng còn thống khổ nào hơn nữa, từ đây, bạn có thể đối mặt với tất cả rồi. Coi như, cuộc đời, dù chỉ là một mớ hỗn độn,vẫn có thể níu chân bạn từ tầng nhà ấy, tình yêu, dù chỉ là cổ tích, vẫn có thể khiến bạn muốn tin thêm lần nữa, thành công, dù xa vời biết bao nhiêu, vẫn có thể khiến bạn muốn thử.\n" +
+                "\n" +
+                "Ly vỡ tất nhiên không thể lành, nhưng con người không phải thủy tinh, không phải đá, không phải gỗ, con người có sức bền bỉ rất khủng khiếp, tuổi trẻ có thể hồi phục rất mạnh mẽ. Một thời vùng vẫy, quằn quại, mình mẩy xác xơ, tim chắp vá, đầu nguội lạnh, lòng trơ trọi. Một thời từ đau khổ này qua đau khổ kia. Rồi một ngày, bạn thấy mình lớn lên. Và bạn biết ơn tuổi trẻ với những đau khổ ấy biết dường nào.Bạn nhìn thấy mình hôm nay là một phần của hôm qua, và hạnh phúc ươm mầm vì bạn hiểu thế nào là đau khổ. \n" +
+                "\n" +
+                "Quan trọng là, hãy tin, và hãy yêu."));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/51fdcadc2d61e446f146cf70588a98ef/tumblr_najrz9s0Nf1thiwtjo1_1280.jpg","Có chuyến đi dài hơn đất trời và không thể đến nơi."));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/bffb30406641b04e4b4c661d46e0eb6c/tumblr_naltrmxtNp1sxnbwko1_1280.png","“Dù các bạn là fan, chúng tôi không thể lo cho cuộc đời của các bạn, cũng như các bạn không cần lo cho cuộc đời của chúng tôi. Hãy tự chịu trách nhiệm đối với chính mình. Các bạn chỉ nên coi chúng tôi là một phần của cuộc sống, chứ không phải là tất cả.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/922c82557dbdbbc7d428ccf1e3815f15/tumblr_nak8acqIAU1sxnbwko1_1280.jpg","“Tại sao em lại ghen à? \n" +
+                "Vì anh và em đã thôi làm bạn bè từ lâu lắm rồi.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/2d601c6e8b965bcd6e10e2cebae6c453/tumblr_nak88cb1uw1sxnbwko1_1280.png","“Nếu có ai đó đột nhiên không tốt đẹp như những gì bạn vẫn thường nghĩ về họ, thì cũng chưa chắc là họ đã thay đổi,mà có thể là bạn đã đánh giá sai về họ ngay từ đầu, họ vốn chưa bao giờ tử tế.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/aadd710d8e25862aad55a86205418dc1/tumblr_nagpseGudO1thiwtjo1_1280.jpg","Cảm giác không cam tâm nhưng vẫn nén lòng dứt bỏ một người.\n" +
+                "Hẳn đau."));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/aaef3894ff219070d98240c7265b2eea/tumblr_nak85mKwoF1sxnbwko1_1280.png","“Tôi sẽ giữ trái tim tôi có từ ngày debut, cho các hoạt động tương lai của mình. Hy vọng rằng mọi người sẽ tin vào những quyết định của chúng tôi, và ủng hộ chúng tôi.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/7a02daf858750d3c3d0b282dd0e49e31/tumblr_nai8uiOtSr1sxnbwko1_1280.png","“Anh dựa vào cái gì mà xông vào thế giới của em? khuấy động tất cả mọi thứ lên, rồi sau đó biến mất không thấy hình bóng. Anh dựa vào cái gì?”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/b8724262f0e79f0bb35426795bd524cf/tumblr_naghkpc9Dd1sxnbwko1_1280.png","“Anh yêu em, đây là quyền lợi của anh, em chỉ có quyền cự tuyệt chứ không có quyền ngăn cấm!”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/7ed869ae97e48101f3f8a5c98126dfdd/tumblr_naghf8FRat1sxnbwko1_1280.png","“Ai rồi chẳng đổi thay\n" +
+                "Cỏ xanh thành cỏ dại\n" +
+                "Biết chẳng gì mãi mãi\n" +
+                "Nhưng dễ gì buông tay…”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/5a5ea5834d2ebf619f57fbf9c9afd0d9/tumblr_naghpgq18j1sxnbwko1_1280.png","“Cuộc đời thì ngắn mà năm tháng dài rộng lại chẳng đợi chờ ai cả, dù bạn không muốn nhưng ngày hôm qua vẫn đi mất rồi. Hãy đứng ở ngày hôm nay, chào tạm biệt ngày hôm qua và chuẩn bị sẵn sàng cho ngày mai!”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/e408fd221e08b04b0e08345616ffc694/tumblr_nagf38Caxr1sxnbwko1_1280.png","“Hình như người đó không hề nhớ đến tôi\n" +
+                "Hình như chỉ có một mình tôi đau khổ\n" +
+                "Hình như người đó đã hoàn toàn quên rằng\n" +
+                "Đã từng có một người như tôi, mà sống rất hạnh phúc.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/b68662e9be61e95c27ac5f99333e5a70/tumblr_nag6oc13yr1thiwtjo1_1280.png","“Nếu phân tích từ góc độ tâm lí học của các em, thì trong quá trình giao tiếp con người sẽ đối diện với ba nỗi sợ lớn là: sợ sự xa lạ, sợ người có địa vị cao và sợ đám đông. Mức độ sợ hãi mỗi người mỗi khác, tùy vào trải nghiệm của từng người, nhưng đều không thể tránh khỏi chúng. Khi các em phỏng vấn xin việc, phỏng vấn khi thi cao học, phỏng vấn khi thi công chức đều bao gồm cả ba nỗi sợ này nên nó mới trở thành trở ngại lớn cho nhiều người như vậy.”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/0bd468a20ce4f6a4e5bd486091ec3612/tumblr_nag9xcNzNw1sxnbwko1_1280.png","“Ngốc à, sao phải sợ anh? Cho dù anh giết tất cả mọi người trên thế giới này, anh cũng sẽ không giết em đâu.”"));
+        //8 2014
+        //7 2014
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/250d4431e490df48351647c3859b56ca/tumblr_n9kqs0loFz1sxnbwko1_1280.png","“Mẹ, mẹ đã rời bỏ thế giới này trước con, nhưng mẹ đã ban cho con 8 người chị em . Con muốn cảm ơn mẹ và Thượng đế.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/47bff645c4458f4ca1be38c9ad22034a/tumblr_n9k3q3XL9l1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/9e35be9e61c76ec99c8695db1ead46f0/tumblr_n9kr1t9y1J1sxnbwko1_1280.png","“Tình yêu chỉ đẹp khi mới bắt đầu, còn quá trình duy trì tình cảm đẹp đẽ đó thì sẽ có rất nhiều khó khăn, mãi cho đến khi phát hiện ra sự thật đằng sau lớp vỏ tốt đẹp đó, chính là lúc chia tay.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/f86c6458f1231822fe98841bf100bad7/tumblr_n9kq5i2iys1thiwtjo1_1280.png","“Có những chuyện cũ đã qua không nhất thiết phải kể cho mọi người nghe.\n" +
+                "Có những nỗi đau cũng không nhất thiết để mọi người biết.\n" +
+                "Có những tâm tình giữ trong lòng, không nhất thiết phải bày tỏ. \n" +
+                "Có những tổn thương theo thời gian sẽ dần lành lặn.\n" +
+                "Có những thiệt thòi khi đã qua, suy nghĩ thông suốt cũng sẽ trở lại bình thường.\n" +
+                "Có những khi đau lòng, nhẫn nhịn vài lần sẽ thành thói quen.\n" +
+                "\n" +
+                "Thật ra trong cuộc sống, không phải những lúc đau khổ nào cũng có thể la hét, và không phải tình yêu nào cũng đều được thổ lộ.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/abea71aafd54aa5d849842d35b1c8b23/tumblr_n9ke7dMz5J1sxnbwko1_1280.png","“Tôi vốn chỉ là một người bình thường, chẳng qua tôi có một công việc đặc biệt mà thôi. Chính nhờ sự ủng hộ, tình yêu và sự quan tâm của các bạn, tôi mới có thể bước đi trên con đường này.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/69f2a932a9ced06200806a51766095aa/tumblr_n9k3gwZTuv1sxnbwko1_1280.png","“Trên đời ko có nhiều hoàng tử cưỡi bạch mã đến rước chúng ta đi như vậy, cho nên phụ nữ nhất định phải có một đôi giày tốt, để bản thân có thể tự tin bước đi bằng đôi chân của mình.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/5e9e08e7d9fe2ce30d665de4a6771797/tumblr_n9hiqyp88Z1sxnbwko1_1280.png","“I am not crazy! My reality is just different than yours.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/03ede3ab7cc9f1a5a1d7c0bc3dc01ddf/tumblr_n9hikqCFAt1sxnbwko1_1280.png","“Nhận được bao nhiêu thì cho đi bấy nhiêu. Người nào cười với tôi thì tôi cười lại. Ai xúc phạm tôi thì tôi xúc phạm lại”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/f1e73d1914dbdb8c2abb69d4ba3c8d64/tumblr_n9hihl7UmC1sxnbwko1_1280.jpg","“Làm người đừng quá nhạy cảm, suy nghĩ nhiều cũng chỉ làm bản thân tổn thương mà thôi. Người nói vô tâm, người nghe để bụng, một câu nói vô tình cũng làm bản thân nghĩ ngợi quá nhiều thì làm sao mà không phiền chứ. Có rất nhiều chuyện người nói đã sớm quên đi nhưng người nghe thì cứ nhớ hoài.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/9f95e2fe1e06a9591a09311a2769139f/tumblr_n9hdhwrVcf1sxnbwko1_1280.png","“Ta chưa bao giờ ghét bỏ nàng, mà là ta đang nhớ nàng. Ta chưa bao giờ câm hận nàng, chỉ là ta quá yêu nàng sâu đậm mà thôi… “"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/5ab274fad76d904758c6db8a9f07fde7/tumblr_n9h8f9YcPb1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/3439c7fa63d84023e8e0f825dd4b49a8/tumblr_n9h02weeJ01thiwtjo1_r1_1280.jpg","“Ngon hay dở, đẹp hay xấu, xinh hay không xinh, tuyệt vời hay nhảm nhí, sang hay quê, vừa miệng hay không….là các tính từ 100% cảm tính, tức cảm nhận của mỗi cá nhân. Họ có gu thẩm mỹ, văn hóa, giới tính, sự trải nghiệm khác nhau thì sẽ cảm nhận khác nhau. Nên khi tôi nói “ theo ý kiến của riêng tôi”, thì phải được tôn trọng chứ mắc mớ gì cãi lại hay chê bai. Cơ sở nào để mình thì đúng thì người khác thì sai, cơ sở nào cho rằng cảm tính của mình là văn minh còn của người là thấp kém? Còn trích dẫn từ báo chí hay sách vở, thì cũng chỉ là cảm tính của nhà báo đó, quan điểm của tòa soạn đó, của nhà văn đó, của nhà xuất bản đó thôi. Không thể lấy làm chuẩn được.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/e3abc31caf8711d247574d5b94f7cbe8/tumblr_n9gq7in23p1thiwtjo1_1280.png","“Một người yêu bạn hay không bạn có thể tự cảm nhận được. Không cần phải gạt người gạt mình, miễn cưỡng bản thân.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/40fab8b70c2d6cf37c1675e8fd4d993f/tumblr_n9f85chGss1sxnbwko1_1280.png","“Có những ngày buồn hiu như thế\n" +
+                "Mưa dầm dề ngoài cửa chẳng thôi\n" +
+                "Nằm lăn lóc mặc thời gian trôi\n" +
+                "Một mình thôi mà sao buồn thế…”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/6405328012e339096af93c72235da4e6/tumblr_n9giprlGnX1sxnbwko1_1280.png","“Cause you can’t bandage the damage\n" +
+                "You never really can fix a heart.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/7158c24b3b107aae81d2ac274cd45517/tumblr_n9fcmrmOcT1sxnbwko1_1280.png","“Ba tháng nghỉ hè đã làm suy giảm trí thông minh của tớ.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/41a9db0e0a3f9f3a2f4b5c29b5515579/tumblr_n9fa6vdo8Z1sxnbwko1_1280.png","“Tôi là một người chỉ sống trong thế giới của riêng mình. Tôi không muốn bước ra ngoài, mà cũng chẳng dám bước ra ngoài. Tôi là một người bên ngoài tỏ ra rất mạnh mẽ, nhưng nội tâm lại rất mềm yếu. Tôi đa sầu đa cảm, nhưng trước mặt người khác lại luôn mỉm cười, khiến ai cũng nghĩ rằng tôi là một cô gái hạnh phúc luôn hiểu thế nào là đủ. Tôi học được cách đối xử tốt với người khác, nhưng lại không học được cách đối xử tốt với chính mình. Tôi học được sự khoan dung, tôi có thể tha thứ cho những người làm tổn thương tôi, nhưng lại chẳng thể tha thứ cho những lỗi lầm đã qua của bản thân.”\n"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/6216aa58e1cbe1fe50c6bf4f3eb91cfd/tumblr_n9ezfbrHmF1sxnbwko1_1280.png","“Tất cả những thứ tuyệt diệu nhất đều bắt đầu khi chúng không là gì cả.”\n"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/6c06edd8dd03d302555a6b68f10b54bf/tumblr_n9bo7f7Jsy1sxnbwko1_1280.png","“Vì lo lắng cho em nên cảm thấy đau lòng.\n" +
+                "Vì không kiềm chế được bản thân nên làm tổn thương lòng tự trọng.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/66d3745f5ebc88b781a22bcbedf28ea8/tumblr_n9bod1WcJz1sxnbwko1_1280.png","“Từ lúc bà ấy mất tích đến giờ, bà có gặp bà ý không?\n" +
+                "Mất tích rồi thì gặp sao được?!”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/de8101a252a701ec779e5558f0186ecf/tumblr_n9bohbtdSG1sxnbwko1_1280.png","“Trốn chạy để làm gì? Chẳng phải để người ta tìm kiếm mình ư. Nếu trốn chạy mà không ai tìm kiếm mình thì việc đó cũng chỉ là vô nghĩa mà thôi!”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/02d65c2576a83fd3e57357b9dd3adbf5/tumblr_n0my73v5ex1sxnbwko1_1280.png","“Cách hợp lí nhất để sống trong thế giới này là phá bỏ đi những nguyên tắc.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/604a9de8cd991b2b5b4514944ca19ec6/tumblr_n92mpk6szr1sxnbwko1_1280.jpg"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/b54cf23b397da69b1ac9877957cffbac/tumblr_n0o0tmB2pz1sxnbwko1_1280.png","“Sài Gòn hoa lệ thật! \n" +
+                "Hoa cho người giàu và lệ cho người nghèo.”\n"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/0969ef529d0a787dcf801ec5a1fbe069/tumblr_n92mlpqqmf1sxnbwko1_1280.jpg","“Bạn hiểu điều ấy không? Bạn gặp một người tuyệt vời ở đời thực, chứ không phải trong sách vở, phim ảnh đâu nhé. Bạn rung động mãnh liệt nhưng hiểu rằng người ấy sẽ không bao giờ là của bạn.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/2d852a309fdd8f761a5116036e78448a/tumblr_n92mfgmb7n1sxnbwko1_1280.png","“Quay đầu lại là hèn nhát. Con người phải nhìn về phía trước.”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/3b8aa5fd87dd5f30a6b929d3955f19a8/tumblr_n9620meY5j1sxnbwko1_1280.png","“Điều đó không đẹp sao, khi chúng ta tay trong tay.\n" +
+                "Em rất muốn đi, đến thành phố của anh, ngôi nhà của anh va trong vòng tay anh.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/65731c1345794e57f51fdcd0ae3e54b0/tumblr_n95moqLFBK1sxnbwko1_1280.png","“Kể từ khi Ji Hyo trở thành công chúa, trong lòng em đã nghĩ bản thân mình là hoàng tử.”\n"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/988c0036d1d4ee6b2f0b23371a16e025/tumblr_n90wegMM7S1sxnbwko1_1280.png","“Những thứ không nên nghĩ đến thì cũng không nên nghĩ quá nhiều, những thứ không thể có thì cũng đừng đưa tay ra lấy.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/c92d61e295ecb9e26605700bb98089bd/tumblr_n8yzlndjtF1sxnbwko1_1280.png","“Thế giới này thật tàn nhẫn, nhưng cũng thật tươi đẹp.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/4101e2fb38de75b5001bc980a27c9f7f/tumblr_n90w4jHJ3f1sxnbwko1_1280.png","“Dường như lúc nào cô ấy cũng ở bên tôi, nhưng thật ra thì không phải. Cô ấy tự mình bắt đầu cuộc hành trình, và lại quay về bên tôi lúc nào không hay biết. Thế là được rồi, chỉ cần tôi không bị mất dấu cô ấy.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/5c44dd44e68ef0b808f55b4efb8f372a/tumblr_n8v1y3KGlp1sxnbwko1_r1_1280.png","“Cô gái nào phải vật lộn ngoài xã hội đều mơ ước sẽ có được một công việc ổn định, còn có một tình yêu tuy rằng rất bình thường nhưng cũng rất hạnh phúc và cả một tình bạn thật đáng quý nữa.\n" +
+                "Nhưng mà, trong số đó tình yêu là thứ không đáng tin nhất. \n" +
+                "Bởi vì nó chứa nhiều ảo tưởng nhất.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/1091909aab5470f9718db0ee487cefca/tumblr_n8x3apX9wZ1sxnbwko2_1280.png","“Tình yêu bắt đầu lớn dần trong câu chuyện của đôi ta\n" +
+                "Từng chút từng chút một viết lên những chương tình cảm\n" +
+                "…\n" +
+                "Tình yêu là lời hứa trong gió\n" +
+                "Lời đã hứa là mãi mãi\n" +
+                "Tuyệt đối sẽ không nuốt lời.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/243bf7e2828b05a26d8311f61e91d01d/tumblr_n8x3g4Isgg1sxnbwko1_1280.png","“Con trai của tôi là phần đẹp nhất và quan trọng nhất của cuộc đời tôi. Đó là danh hiệu đẹp nhất, chiến thắng lớn nhất của tôi.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/fe872cad34e01803a5c6fff0d6224eb1/tumblr_n8wbrgniYi1sxnbwko1_1280.png","“Nắm tay nhau thật chặt, giữ tay nhau thật lâu, hứa với nhau một câu sẽ đi trọn tới cuối con đường.”\n"));
+        arrayList.add(new OPhoto("“Nắm tay nhau thật chặt, giữ tay nhau thật lâu, hứa với nhau một câu sẽ đi trọn tới cuối con đường.”\n","“Bạn tốt chỉ là bạn tốt, mãi là bạn tốt, không thể nào chiếm hữu được\n" +
+                "Bạn tốt sau khi tình yêu qua đi cũng sẽ chỉ còn một người bước đi vô định, chỉ có thể giữ lại một chút dịu dàng.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/413cc9ee2eb392c1f8c2e15d0570edf9/tumblr_n8ufdyHh0w1sxnbwko1_1280.png","“Nếu cậu thắng, cậu sẽ sống; nếu cậu thua, cậu sẽ chết. Nhưng cậu không thể thắng nếu cậu không đánh.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/d4a9f2d8a6471fe66bc2e56a7eedeffc/tumblr_n8uzm95kPp1sxnbwko1_1280.png","“Tôi đã chạy trốn quá nhiều rồi. Cuối cùng tôi đã tìm được người mà tôi phải bảo vệ…Chính là em đó.”\n"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/2cff8c53c28f83112ab08c0eab6d4c4e/tumblr_n8sjbjB6AN1sxnbwko1_1280.png","“Em có muốn cho tất cả mọi người biết hồ cá này đã bị em bao hết rồi không?”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/dae4ba07b40a8ed58c6ac9f1060a5169/tumblr_n157kgneji1sxnbwko1_1280.png","“Không tiếc nơi gửi mộng, chỉ hận quá vội vàng.”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/85e86269dc6ccb511a4e47cf4e253907/tumblr_n16m7oSQoh1sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/cb14c14da41bb60b153e991fef3ed71f/tumblr_n8t1ssxRCZ1sxnbwko1_1280.png","“Có những ngày tôi buồn lắm, chỉ biết ngồi thu lu một xó, không ra ngoài, không nói chuyện. Rồi những ngày ấy, tôi cần lắm một cái ôm, cần lắm một bàn tay, cần lắm một bờ vai cho tôi dựa!”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/e6b9fb49d53b2e2baee5883b180d0b4a/tumblr_n8rds5bizI1sxnbwko1_1280.png","“Bởi vì yêu anh mà rơi vào sự cô đơn.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/d75c22d6749872d7371ccfde787d446a/tumblr_n8psth27Bh1sxnbwko1_1280.png","“Tất cả mọi thứ đều có khả năng tái sử dụng trừ người yêu cũ.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/58b945479c737f1de541dc90fd7b95ac/tumblr_n8owozzpWn1sxnbwko1_1280.png","“Những phút giây khi xưa ngày mình bên nhau, chỉ còn những nỗi đau riêng em một mình cố giấu.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/5496b5f5603a54e14ee81da247eed5a3/tumblr_n8k522L0Lo1sxnbwko1_1280.png","“Dù em ở nơi này thật gần, thật gần bên anh. Vậy mà tại sao, tại sao chúng ta chỉ có thể là bạn? Dù cho những cảm xúc của em đối với anh mạnh mẽ. Làm cách nào em bày tỏ được đây. Anh chẳng hề hiểu rằng em rất yêu anh."));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/ab2f844d72e3abb263da3c0cb9d96fc2/tumblr_n8k4qxpmkf1sxnbwko1_1280.png","“Người cứu bệnh nhân là bác sĩ chứ không phải bệnh viện.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/af38b5de1ce307b7a3af5b3aa87bf2f8/tumblr_n8k4ksn6bA1sxnbwko1_1280.png","“Có một số việc thích hợp để lắng xuống đáy biển hơn là kéo lên để làm sáng tỏ. Bởi vì dù có tìm ra được đáp án cũng không nhất định sẽ khiến chúng ta vui…”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/a1f2f059391ae2aed500213a50a2b5b3/tumblr_n45sn8RVi71sxnbwko1_1280.png"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/3bba7bbac9a8297789c343df0d35d12b/tumblr_n8k54hxLCK1sxnbwko1_1280.png","“I do what I like, I like what I do.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/c8e8587210cd82b339a289410d187f58/tumblr_n8k3vkUS6R1sxnbwko1_1280.png","“Có khi bạn nói với một người rằng bạn sẽ ở bên cạnh người đó cho dù có bất cứ chuyện gì xảy ra nhưng bạn đã quên mất rằng chưa chắc người đó đã cần bạn.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/5c979981575ba970c0d6bf28e9f04e48/tumblr_n8j9ooK8Hp1sxnbwko1_1280.png","“Đừng đổ bất kì một lỗi gì lên tình yêu sau khi chia tay, nó vẫn vẹn nguyên như lúc ban đầu chỉ có lòng người là không còn vẹn nguyên mà thôi.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/0b916c6c4434ed8639f2abb63d515cdf/tumblr_n8lgn2t6di1sxnbwko1_1280.png","“Tình bạn cũng là tình yêu.\" "));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/94b69aed4ac7d6710f0d3cb5327c2977/tumblr_n8j9ph0TAA1sxnbwko1_1280.png","“ETC\n" +
+                "End of thinking capacity.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/ddf50b9e15e35823320e18e022e13b44/tumblr_n8ggkzK6gf1sxnbwko1_1280.png","“Không phải vì là đồng đội nên mới hỗ trợ lẫn nhau. Mà vì luôn hỗ trợ lẫn nhau nên chúng ta mới là đồng đội.”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/8614f42805ab5f79c3cd92e1617f2151/tumblr_n8dyndZTjV1sxnbwko1_1280.png","“Có đôi khi, niềm hạnh phúc ào tới quá đột ngột sẽ khiến cho người ta có một cảm giác không thật, khiến người ta thật sự sợ hãi chỉ cần xoay người một cái là hạnh phúc sẽ biến mất.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/b8550ec877e4a53634b3a7a21c50ea5f/tumblr_n8f8yhqLQe1sxnbwko1_1280.png","“Dẫu biết rằng cố ăn là sẽ béo\n" +
+                "Nên dặn lòng càng béo lại càng xinh.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/e98d6c72671f483233b3f36121c17d8b/tumblr_n8hf91bybc1sxnbwko1_r1_1280.png","“Có đôi khi đoạn ký ức rất ngắn mà vô cùng rõ ràng, rõ ràng tới mức làm người ta không thể nào trốn được.”"));
+        arrayList.add(new OPhoto("http://66.media.tumblr.com/13f899ee7998d11aceb298487ff64072/tumblr_n8awubPOdH1sxnbwko1_1280.png","“Trao nhau một cái nhìn yêu thương, cùng nhau chia sẻ một bữa cơm ấm áp…\n" +
+                "với tất cả những khoảnh khắc tràn ngập tình yêu và tiếng cười…bạn sẽ luôn\n" +
+                "hạnh phúc với những yêu thương không điều kiện như thế.”"));
+        arrayList.add(new OPhoto("http://65.media.tumblr.com/241b08125b82d74121f50892b6cd3a4a/tumblr_n8dyjjxIV91sxnbwko1_1280.png","“Và năm tháng trôi đi, làm sao biết được ai có thể trở thành của ai chứ?”"));
+        arrayList.add(new OPhoto("http://67.media.tumblr.com/d0034ac63aa3d40d74f6e387c677c545/tumblr_n8ck5eB7721sxnbwko1_1280.jpg","“Một số quan hệ sẽ hạnh phúc, một số khác sẽ trở thành bài học.”"));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
+        arrayList.add(new OPhoto(""));
         arrayList.add(new OPhoto(""));
         arrayList.add(new OPhoto(""));
         arrayList.add(new OPhoto(""));
